@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="tetris.AShape" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAACABAsAJEAAAAAAAEANGAABgAAKQAEEgAAMQBI=</HashCode>
+      <FileName>AShape.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="tetris.CBox" Collapsed="true">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIwAAAAAAAEAAAAAAAAASAAQAAAAAQAAAAgAAAAAAgA=</HashCode>
+      <FileName>Box.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tetris.CApp" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAwBABAAAIAAAAAAAAAAAAgAAAAAAAAAAAEAAAAAAI=</HashCode>
+      <FileName>CApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tetris.CControl" Collapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAAAQAAAAAAAAAAAAAAEAAAAAAAAAABIAAA=</HashCode>
+      <FileName>CControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tetris.CFiled" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAAoAgAggEAEBAAAAAAAAQAAAAAAIAAwAAAhBAEAgA=</HashCode>
+      <FileName>CFiled.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tetris.CShapeI" Collapsed="true">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Shape\CShapeI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tetris.CStopwatch" Collapsed="true">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>CStopwatch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tetris.CView" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgEAAAAAAAAAAAAAAAAAAAAAAAAABAQEAAA=</HashCode>
+      <FileName>CView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tetris.Program" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tetris.BottomReached" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BottomReached.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tetris.CShapeJ" Collapsed="true">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Shape\CShapeJ.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tetris.CShapeL" Collapsed="true">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Shape\CShapeL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tetris.CShapeO" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Shape\CShapeO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tetris.CShapeS" Collapsed="true">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Shape\CShapeS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tetris.CShapeT" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Shape\CShapeT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tetris.CShapeZ" Collapsed="true">
+    <Position X="2.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Shape\CShapeZ.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tetris.СTetrisApp" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAgAAMCAkAAAAAAAAAAAAAAAAAAAAAAAEAAgAA=</HashCode>
+      <FileName>TetrisApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="tetris.SPoint" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAgAAAAAAAAAAAAAAAABAAgAAAagA=</HashCode>
+      <FileName>SPoint.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="tetris.IShape" Collapsed="true">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAIQAAAAAAEABA=</HashCode>
+      <FileName>IShape.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
